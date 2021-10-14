@@ -1,5 +1,5 @@
 ---
-title: "World Bank World Development Indicator"
+title: "World Bank World Development Indicators"
 author: "Mobolaji"
 date: "10/10/2021"
 output: html_document
